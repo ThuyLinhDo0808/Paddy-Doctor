@@ -1,0 +1,6 @@
+**/train_images/
+**/test_images/
+**/__pycache__/
+**/meta_train.csv
+**/prediction_submission.csv
+COSC2753_2025A_Assignment 2.pdf

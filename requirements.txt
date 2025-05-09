@@ -1,0 +1,19 @@
+# Core PyTorch libraries
+torch>=2.6.0            
+torchvision>=0.15.0     
+
+# Array and matrix operations
+numpy                   
+
+# For data handling, preprocessing, and statistics
+pandas                  
+scikit-learn            
+opencv-python           
+
+# For visualization and monitoring
+matplotlib              
+seaborn                         
+
+# Config and image I/O
+PyYAML                 
+Pillow                  

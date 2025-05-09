@@ -1,0 +1,12 @@
+seed: 42
+batch_size: 64
+epochs: 30
+learning_rate: 0.001
+model_name: "resnet18"
+image_size: 224
+num_classes: 10
+data_dir: "./data"
+log_dir: "./logs"
+save_model_path: "./checkpoints/model.pt"
+train_dir: "./data/train"
+test_dir: "./data/test"
