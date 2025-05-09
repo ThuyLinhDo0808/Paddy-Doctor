@@ -17,3 +17,6 @@ seaborn
 # Config and image I/O
 PyYAML                 
 Pillow                  
+
+# For web application
+streamlit
